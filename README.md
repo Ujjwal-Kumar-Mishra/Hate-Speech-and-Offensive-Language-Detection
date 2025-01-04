@@ -1,1 +1,2 @@
 # Hate-Speech-and-Offensive-Language-Detection
+This project developed an NLP-based solution for detecting hate speech and offensive language in text, improving automated content moderation accuracy. By applying sentiment analysis and machine learning, the system classified and filtered harmful content in social media posts and comments. A custom NLP pipeline was created using TF-IDF for feature extraction and word embeddings to capture semantic relationships, enabling better detection of offensive language. 
